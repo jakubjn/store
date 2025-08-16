@@ -361,5 +361,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAzu4fQBltUyHwwjIc4X6fM1RnqWBjduegUQRD4oIUX6c=",
     "repository": "caido-community/scanner"
+  },
+  {
+    "id": "racer",
+    "name": "Racer",
+    "license": "MIT",
+    "description": "Plugin for exploiting Race Conditions in Caido",
+    "author": {
+      "name": "jakubjn",
+      "email": "jakdevreal@gmail.com",
+      "url": "https://github.com/jakubjn/Racer"
+    },
+    "public_key": "MCowBQYDK2VwAyEAS/NX1zOQGgdqNuZO+KqCiZqvCEuBWrL24HLFGp7R0gg=",
+    "repository": "jakubjn/Racer"
   }
 ]
